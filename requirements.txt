@@ -1,0 +1,5 @@
+# requirements.txt
+numpy==1.22.3
+pandas==1.4.2
+# Update the critical dependency to the latest version
+critical-dependency==2.1.0
